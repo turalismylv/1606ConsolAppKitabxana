@@ -1,0 +1,16 @@
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.exe
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.deps.json
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.runtimeconfig.json
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.runtimeconfig.dev.json
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.dll
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ref\ClassWork1606ConsoleApp.dll
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\bin\Debug\net5.0\ClassWork1606ConsoleApp.pdb
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.AssemblyInfo.cs
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.dll
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ref\ClassWork1606ConsoleApp.dll
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.pdb
+C:\Users\turalhi\Desktop\CLassWork\ClassWork1606ConsoleApp\ClassWork1606ConsoleApp\obj\Debug\net5.0\ClassWork1606ConsoleApp.genruntimeconfig.cache
